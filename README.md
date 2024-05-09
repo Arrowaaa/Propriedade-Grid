@@ -3,9 +3,10 @@
 ## Sumário
 - [Descrição](#descrição)
 - [Funcionalidades Principais](#funcionalidades-principais)
-- [Exemplo de Uso Básico](#exemplo-de-uso-básico)
 - [Recursos Adicionais](#recursos-adicionais)
 - [Compatibilidade do Navegador](#compatibilidade-do-navegador)
+- [Exemplo de Uso Básico](#exemplo-de-uso-básico)
+- [Ilustração Do Exemplo Básico](#ilustração-do-exemplo-básico)
 - [Conclusão](#conclusão)
 
 ## Descrição
@@ -90,6 +91,8 @@ body {
   font-weight: normal;
 }
 ```
+## Ilustração Do Exemplo Básico:
+![Captura de tela 2024-05-09 160001](https://github.com/Arrowaaa/Propriedade-Grid/assets/141832297/13bae1ff-5a27-4c9e-811f-cf6c2ca5d794)
 ## Conclusão
 
 A propriedade grid do CSS oferece uma abordagem flexível e poderosa para criar layouts complexos e responsivos em páginas da web. Com recursos avançados de controle de posicionamento, alinhamento e espaçamento, o grid se tornou uma ferramenta essencial para desenvolvedores front-end na criação de interfaces web modernas e adaptáveis.
