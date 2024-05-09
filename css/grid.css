@@ -425,18 +425,22 @@ p {
 
 .cabecalho {
   grid-area: cabecalho;
+  margin: 1px;
 }
 
 .menu-lateral {
   grid-area: menu-lateral;
+  margin: 1px;
 }
 
 .principal {
   grid-area: principal;
+  margin: 1px;
 }
 
 .rodape {
   grid-area: rodape;
+  margin: 1px;
 }
 
 /* 2 */
