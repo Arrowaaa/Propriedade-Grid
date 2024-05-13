@@ -358,7 +358,7 @@ body {
 body > div {
   max-width: 1300px;
   align-items: center;
-/*   justify-content: center; */
+  justify-content: center; 
 }
 /*Grid-Colum*/
 .grid-column {
