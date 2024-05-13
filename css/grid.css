@@ -20,7 +20,7 @@ h2 {
 
 body {
   background-color: #01080e;
-  color: #dadde0;
+  color: #000000;
   padding: 5% 5% 0 5%;
   width: 100vw;
   text-align: center;
@@ -54,7 +54,7 @@ body {
 /*grid-template-areas*/
 body {
   background-color: #01080e;
-  color: #dadde0;
+  color: #000000;
   padding: 50px 50px 0 50px;
   text-align: center;
   font-size: 2rem;
